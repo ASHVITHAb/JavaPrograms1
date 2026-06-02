@@ -1,5 +1,16 @@
 # Java Programs Repository
 
+1.Reverse String
+2.Palindrome
+3.Fibonacci
+4.Factorial
+5.Largest/Second Largest
+6.Remove Duplicates
+7.Count Characters
+8.Prime Number
+9.Anagram
+10.Array Sorting
+
 This repository contains my daily Java programming practice and interview preparation codes.
 
 ## Topics Covered
